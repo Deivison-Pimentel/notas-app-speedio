@@ -54,6 +54,10 @@ Esta é uma aplicação simples de anotações desenvolvida em Vue.js.
 - **"Excluir":**
   - Confirma a exclusão da anotação, exclui-a e fecha o modal.
 
+## Armazenamento Local com IndexedDB
+
+  - Esta aplicação utiliza o IndexedDB para armazenar localmente suas anotações. O IndexedDB é uma API de baixo nível para armazenamento de dados no navegador, permitindo que as anotações sejam salvas e recuperadas mesmo após o fechamento do navegador.
+
 ## Como Usar
 
 ### Requisitos Prévios
