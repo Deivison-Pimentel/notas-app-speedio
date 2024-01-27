@@ -71,7 +71,7 @@ Certifique-se de ter o [Node.js](https://nodejs.org/) instalado em seu sistema a
    
 2. **Navegue até o Diretório da Aplicação:**
    ```bash
-   cd nome-da-sua-aplicacao
+   cd notas-app-speedio
 
 3. **Instale as Dependências:**
    ```bash
